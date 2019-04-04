@@ -1,1 +1,1 @@
-This is the file for the plain text without encryption. n 
+This is the file for the plain text without encryption. 
